@@ -1,0 +1,3 @@
+- SCSS has been used with react based components layout rules.
+- Viewport Units have been used to keep layout responsive and update height/width based on viewport width.
+- Items are positioned relative to grid columns through calc(), combined with scss mixins.
